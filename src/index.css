@@ -4,7 +4,9 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-image: url(temple.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   overflow-x: hidden;
 }
@@ -20,6 +22,11 @@ h1 {
   h1 {
     font-size: 3rem;
   }
+}
+
+p {
+  color: rgb(250, 231, 231);
+  font-weight: bolder;
 }
 
 .unsupported-network {
@@ -55,6 +62,12 @@ h1 {
   align-content: center;
   display: flex;
   text-align: center;
+}
+
+.mint-nft{
+  background-image: url(nfts.jpg);
+  background-size: 100%;
+  padding: 100px;
 }
 
 .member-page > div {
