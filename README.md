@@ -1,11 +1,16 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# DEVTA DAO
 
-### **Welcome 👋**
-To get started with this project, clone this repo and follow these commands:
+## ABOUT
+This is the decentralized autonomous organization for the users to manage the treasury of the DAO and members to donate the money to the works for the Dharmik works like temple buildings, etc. 
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+Firstly the user has to connect the wallet then mint the nft of Ganesh which is ERC1155 for entering the DAO for free only limited people has the access to the DAO.
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+This DAO has it's own treasury of LAKSHMI ERC20 coins.
+
+Then the users can vote for the proposals, when all the users will vote the contract will automatically execute.
+
+For this project I used the Thirdweb SDK for contract writing, deploying and managing. Also, for frontend I use React.
+
+## Deployed Version
+
+- [DEVTA DAO](https://devta-dao.vercel.app/)
